@@ -1,0 +1,11 @@
+name: fSecurity
+version: 1.0.0
+main: org.FurkannDogann.fSecurity.main.fSecurityMain
+author: FurkanDogan
+commands:
+    doğrula:
+        description: fSecurity kodu Doğrulama Komutu
+        usage: /<commands>
+    fsecurity:
+        description: fSecurity Yardım Komutu
+        usage: /<commands>   
